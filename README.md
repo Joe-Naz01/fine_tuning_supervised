@@ -2,7 +2,7 @@
 
 **Problem.** Predict diabetes onset from clinical features to support early intervention.
 
-**Data.** `./diabetes_clean.csv` (columns include: pregnancies, glucose, diastolic, triceps, insulin, bmi, dpf, age, diabetes).
+**Data.** ./diabetes_clean.csv (columns include: pregnancies, glucose, diastolic, triceps, insulin, bmi, dpf, age, diabetes).
 
 **Approach.**
 - Baseline **Logistic Regression**; ROC curve + confusion matrix.
